@@ -1,0 +1,109 @@
+{
+  "schema": "late_90s_graphics_lab.recipe.v3.3",
+  "version": "3.10.0",
+  "world_preset": "LSD_GRAY_MAN_PLAZA",
+  "parameters": {
+    "world_preset": "LSD_GRAY_MAN_PLAZA",
+    "era_pipeline": "PS1_1998_LSD",
+    "reflection_model": "SPHERICAL_ENVMAP",
+    "shading_interpolation": "FLAT_FACETED",
+    "terrain_mode": "CHECKER_PLANE",
+    "terrain_relief": 0.0,
+    "fractal_detail": 10.0,
+    "erosion_strength": 0.0,
+    "sharpness": 80.0,
+    "terrain_scale": 2.0,
+    "terrace_steps": 0,
+    "plateau_clip": 1.0,
+    "seed": 1998,
+    "scatter_rocks": false,
+    "rock_density": 0.0,
+    "enable_water": false,
+    "water_style": "RIPPLE_MIRROR",
+    "water_level": -1.0,
+    "mirror_reflection": 0.0,
+    "wave_chop": 0.0,
+    "water_color": [
+      0.14,
+      0.58,
+      0.04
+    ],
+    "far_fog": 35.0,
+    "ambient_strength": 42.0,
+    "sky_zenith_color": [
+      0.65,
+      0.0,
+      0.42
+    ],
+    "sky_horizon_color": [
+      0.68,
+      0.02,
+      0.45
+    ],
+    "sky_ground_color": [
+      0.38,
+      0.02,
+      0.48
+    ],
+    "cloud_color": [
+      0.65,
+      0.0,
+      0.42
+    ],
+    "sun_color": [
+      0.85,
+      0.45,
+      1.0
+    ],
+    "sun_elevation": 42.0,
+    "sun_azimuth": 135.0,
+    "sun_intensity": 3.4,
+    "cloud_coverage": 0.0,
+    "cloud_scale": 4.0,
+    "enable_celestial_orb": false,
+    "celestial_orb_scale": 16.0,
+    "terrain_low_color": [
+      0.14,
+      0.58,
+      0.04
+    ],
+    "terrain_mid_color": [
+      0.28,
+      0.82,
+      0.08
+    ],
+    "terrain_high_color": [
+      0.42,
+      0.94,
+      0.14
+    ],
+    "color_contrast_sharpness": 98.0,
+    "saturation_boost": 1.25,
+    "hero_composition": "TERRAIN_ONLY",
+    "hero_material_style": "PLASTIC",
+    "hero_count": 1,
+    "hero_scale": 1.0,
+    "dream_architecture_mode": "LSD_GRAY_MAN_PLAZA",
+    "texture_mismatch_mode": "SEMANTIC",
+    "dream_scale_anomaly": 0.0,
+    "dream_tilt_anomaly": 0.0,
+    "ps1_vertex_snap": 0.006,
+    "ps1_affine_warp": 75.0,
+    "ps2_bloom_intensity": 0.0,
+    "ps2_vpu_wave": 0.0,
+    "camera_preset": "LSD_GRAY_MAN_VIEW",
+    "mesh_resolution": "RES_16",
+    "flat_shaded_terrain": true,
+    "low_poly_primitives": true,
+    "render_engine_mode": "WHITTED_1997",
+    "vintage_specular": false,
+    "hard_shadows": true,
+    "render_profile": "RES_320",
+    "enable_retro_compositor": true,
+    "color_quantization_steps": 16,
+    "retro_pixel_scale": 1.0,
+    "dc_alpha_glow": 85.0,
+    "dc_trilinear_sharpness": 85.0,
+    "ps1_vram_grit": 85.0
+  }
+}

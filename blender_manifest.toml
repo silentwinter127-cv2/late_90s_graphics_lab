@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "late_90s_graphics_lab"
+version = "4.0.0"
+name = "Late-90s Graphics Lab"
+tagline = "Bryce 3D, 1997 Raytracer, PS1/LSD Dreamspace & PS2 Graphics Lab"
+maintainer = "Silicon Dreams Studio"
+type = "add-on"
+blender_version_min = "4.0.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+tags = ["3D View", "Scene", "Procedural", "Render", "Material"]
